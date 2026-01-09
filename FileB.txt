@@ -1,3 +1,4 @@
 This is FileB.
 Lets make a change.
 Okay here's a new change.
+This is for squast commit.
